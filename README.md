@@ -1,4 +1,4 @@
-# sourdough analytics
+# using analytics to improve my sourdough bread
 
-![starter](https://github.com/Geoff-CQW/sourdough/blob/main/starter.jpg)
+<img src="https://github.com/Geoff-CQW/sourdough/blob/main/starter.jpg" width="48">
 
