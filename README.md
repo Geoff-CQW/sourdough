@@ -1,4 +1,4 @@
 # sourdough analytics
 
-![starter](C:\Users\wei_g\Desktop\datasets\sourdough\starter.jpg)
+![starter](https://github.com/Geoff-CQW/sourdough/blob/main/starter.jpg)
 
