@@ -1,4 +1,6 @@
-# using analytics to improve my sourdough bread
+# making better sourdough bread
 
-<img src="https://github.com/Geoff-CQW/sourdough/blob/main/starter.jpg" width="480">
-
+<p align="middle">
+  <img src="https://github.com/Geoff-CQW/sourdough/blob/main/starter.jpg" width="320" />
+  <img src="https://github.com/Geoff-CQW/sourdough/blob/main/bread.jpg" width="320" /> 
+</p>
