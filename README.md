@@ -16,7 +16,7 @@ The data I'm using is from Landis et al<sup>3</sup> and my approach will be:
 2. find the factors that encourage the growth of these microbes
 3. Try it out and see if I get delicious bread
 
-*p.s. Actually the results from <sup>3</sup> suggest that most factors are not strongly associated with microbial species so even this doesn't work out in the end, it's a fun little personal project and experiment and I get more reasons to make bread, so why not?
+*p.s. Actually the results from <sup>3</sup> suggest that most factors are not strongly associated with microbial species so even this doesn't work out in the end, it's a fun little personal project and experiment and I get more reasons to make bread, so why not?*
 
  <br>
  <br>
