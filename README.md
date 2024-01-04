@@ -6,17 +6,17 @@
 </p>
 
 <div style="text-align: justify">
-As a home baker and bread lover, I'd like to improve the taste of my bread. Since the microbial communities in a sourdough starter are what influences the bread's flavors, I want to try and culture sourdough starters that are associated with my preferred flavors. The factors that I can adjust are: temperature, containers, flour type etc. Studies have already established that the flour is the biggest influence on the types of microbes in a sourdough starter<sup>1-3</sup>. 
+As a home baker and bread lover, I'd like to improve the taste of my bread. Since the microbial communities in a sourdough starter are what influences the bread's flavors, I want to try and culture microbes that are associated with my preferred flavors. I'm mostly looking to find factors that I can play around with in my kitchen, such as temperature, containers, water, flour type etc. Some studies have already established that the flour is the biggest influence on the types of microbes in a sourdough starter<sup>1-3</sup> and I'm aiming to find other factors <em>on top of</em> flour that can encourage the desired microbes to flourish in the starter using my analysis.
 </div>
  <br>
 
-Other than flour, the study by Landis et al<sup>3</sup> showed that other factors do have some minor effects on the microbes. So using Landis et al's data, I want to:
+The data I'm using is from Landis et al<sup>3</sup> and my approach will be:
 
 1. identify the microbes associated with the flavor profiles that I want
 2. find the factors that encourage the growth of these microbes
 3. Try it out and see if I get delicious bread
 
-Even if it doesn't work out, this is a fun little personal project and experiment, so why not?
+*p.s. Actually the results from <sup>3</sup> suggest that most factors are not strongly associated with microbial species so even this doesn't work out in the end, it's a fun little personal project and experiment and I get more reasons to make bread, so why not?
 
  <br>
  <br>
