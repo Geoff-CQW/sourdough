@@ -1,0 +1,41 @@
+,Sample,Cluster,Note 1 (Dominant),Note 2 (Secondary),Raw expert sensory panel comments,samples_x,clusters_x,samples_y,clusters_y,samples,clusters
+0,S_507,Blue,acetic.acid.vinegar,green.apple,"acetic acid, apple, sweaty, meaty, burnt protein",S_507,1,S_507,1,S_507,1
+1,S_56,Blue,acetic.acid.vinegar,fermented.apple,"acetic acid, fermented apple, isovaleric acid, pungent, ",S_56,1,S_56,1,S_56,1
+2,S_475,Blue,acetic.acid.vinegar,fermented.fruity,"vinegar/acetic sour, fermented/fruity, yeasty",S_475,1,S_475,1,S_475,1
+3,S_118,Blue,acetic.acid.vinegar,fruity," vinegar/acetic sour, fruity, yeasty, v. sl. woody",S_118,3,S_118,3,S_118,3
+4,S_247,Red,acetic.acid.vinegar,fruity.sour,"acetic acid, fruity sour",S_247,5,S_247,5,S_247,5
+5,S_199,Blue,acetic.acid.vinegar,musty,"acetic acid, musty, meaty sour",S_199,6,S_199,6,S_199,6
+6,S_338,Blue,acetic.acid.vinegar,musty,"acetic acid, musty, cheesy, sweaty",S_338,1,S_338,1,S_338,1
+7,S_336,Red,acetic.acid.vinegar,ethyl.acetate,"acetic sour, ethyl acetate",S_336,4,S_336,4,S_336,4
+8,S_333,Red,acetic.acid.vinegar,fruity,"acetic, fruity, green apple, yeasty",S_333,3,S_333,3,S_333,3
+9,S_441,Red,alcoholic.sour,acetic.acid.vinegar,"alcoholic sour, acetic sour, yeasty, fruity sour",S_441,3,S_441,3,S_441,3
+10,S_16,Red,bready,yeasty,"bready, yeasty",S_16,0,S_16,0,S_16,0
+11,S_1,Red,cheesy,fecal,"cheesy, fecal, fatty acid sour, acetic sour",S_1,4,S_1,4,S_1,4
+12,S_176,Red,ethyl.acetate,acetic.acid.vinegar,"ethyl acetate, acetic sour, pungent",S_176,0,S_176,0,S_176,0
+13,S_238,Blue,ethyl.acetate,alcoholic.sour,"ethyl acetate, alcoholic sour, fruity sour",S_238,6,S_238,6,S_238,6
+14,S_35,Blue,ethyl.acetate,fruity,"ethyl acetate/solvent, fruity, fatty acid sour/sweaty, pungent",S_35,1,S_35,1,S_35,1
+15,S_130,Blue,fermented.apple,acetic.acid.vinegar,"fermented apple, acetic sour, meaty sour",S_130,4,S_130,4,S_130,4
+16,S_506,Red,fermented.sour,acetic.acid.vinegar,"fermented sour, acetic sour, yeasty",S_506,6,S_506,6,S_506,6
+17,S_321,Red,fermented.sour,acetic.acid.vinegar,"fermented sour, acetic sour",S_321,3,S_321,3,S_321,3
+18,S_421,Red,fermented.sour,alcoholic.sour,"fermented fruit sour, alcoholic sour, woody",S_421,0,S_421,0,S_421,0
+19,S_120,Red,fermented.sour,autolyzed.yeast,"fermented sour, autolyzed yeast",S_120,6,S_120,6,S_120,6
+20,S_243,Red,fermented.sour,green.apple,"fermented sour, green apple, yeasty",S_243,5,S_243,5,S_243,5
+21,S_20,Blue,fruity.sour,green.apple,"fruity sour, green apple, yeasty",S_20,5,S_20,5,S_20,5
+22,S_156,Red,green.apple,acetic.acid.vinegar,"green apple, acetic sour, yeasty",S_156,4,S_156,4,S_156,4
+23,S_542,Red,green.apple,alcoholic.sour,"green apple, alcoholic/beer, yeasty, acetic sour",S_542,4,S_542,4,S_542,4
+24,S_373,Red,green.apple,fermented.sour,"green apple, fermented sour",S_373,3,S_373,3,S_373,3
+25,S_390,Red,green.apple,fermented.sour,"green apple, fermented sour, sl acetic sour",S_390,0,S_390,0,S_390,0
+26,S_122,Red,green.apple,fruity.sour,"green apple, fruity sour, yeasty",S_122,0,S_122,0,S_122,0
+27,S_461,Red,green.apple,yeasty,"green apple, yeasty",S_461,5,S_461,5,S_461,5
+28,S_521,Blue,sweaty,fecal,"sweaty, fecal, ethyl acetate, pungent",S_521,6,S_521,6,S_521,6
+29,S_549,Blue,toasted.corn.chips,rancid,"toasted corn chips, rancid, body odor/isovaleric acid",S_549,0,S_549,0,S_549,0
+30,S_446,Blue,veggie.sulfide,fecal,"veggie sulfide, fecal",S_446,0,S_446,0,S_446,0
+31,S_24,Blue,winey.sour,acetic.acid.vinegar,"winey sour, acetic sour, yeasty",S_24,1,S_24,1,S_24,1
+32,S_385,Red,yeasty,acetic.acid.vinegar,"yeasty, acetic sour, fermented fruit, woody",S_385,5,S_385,5,S_385,5
+33,S_154,Blue,yeasty,acetic.acid.vinegar,"yeasty, acetic sour, woody aldehyde",S_154,5,S_154,5,S_154,5
+34,S_389,Red,yeasty,acetic.acid.vinegar,"yeasty, acetic sour",S_389,0,S_389,0,S_389,0
+35,S_523,Red,yeasty,alcoholic.sour,"yeasty, alcoholic sour/beer, acetic sour, woody",S_523,4,S_523,4,S_523,4
+36,S_307,Red,yeasty,brown.fruit,"yeasty, brown fruit, acetic sour",S_307,3,S_307,3,S_307,3
+37,S_328,Blue,yeasty,burnt.protein,"yeasty, burnt protein",S_328,5,S_328,5,S_328,5
+38,S_323,Red,yeasty,acetic.acid.vinegar,"yeasty, acetic sour, woody",S_323,6,S_323,6,S_323,6
+39,S_166,Red,yeasty,meaty.sour,"yeasty, meaty sour",S_166,4,S_166,4,S_166,4
